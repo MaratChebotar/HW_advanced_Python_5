@@ -1,0 +1,5 @@
+17/04/23 08:55:26, func: hello_world, args: ((), {}), result: Hello World
+17/04/23 08:55:26, func: summator, args: ((2, 2), {}), result: 4
+17/04/23 08:55:26, func: div, args: ((6, 2), {}), result: 3.0
+17/04/23 08:55:26, func: summator, args: ((4.3,), {'b': 2.2}), result: 6.5
+17/04/23 08:55:26, func: summator, args: ((), {'a': 0, 'b': 0}), result: 0
